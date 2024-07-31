@@ -1,0 +1,6 @@
+database:
+  host: 127.0.0.1
+  name: school_closures2
+  user: postgres
+  password: Spartan117
+  port: 5432
